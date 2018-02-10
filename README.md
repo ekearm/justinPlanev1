@@ -6,9 +6,14 @@ Added a throttle and brake feature
 Also added my own assets: plane
 Got these assets from a google search: finger ocean and background
 
-to run go to the file location and enter ruby justinPlane.rb
+First install  homebrew and rbenv
+then: brew install sdl2
+then: gem install gosu
 
+to run go to the file location in your terminal and enter ruby justinPlane.rb
+
+CONTROLS:
 to exit hit esc
-to play and go up hit UP on the keypad
-to accelerate hit RIGHT on the keypad
-to brake hit LEFT on the keypad
+to start and go up hit: UP on the keypad
+to accelerate hit RIGHT: on the keypad
+to brake hit LEFT: on the keypad
